@@ -60,12 +60,12 @@ const Footer = () => (
         <p className="mt-2 text-sm text-gray-600">
           Desenvolvido por{' '}
           <a
-            href="https://www.instagram.com/viguez.xyz"
+            href="https://www.instagram.com/viguezgroup"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-gray-400"
           >
-            @viguez.xyz
+            @viguezgroup
           </a>
         </p>
       </div>
